@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613506277 source:c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\ac\main.cpp
+	<iostream>
+	<stdlib.h>
+	"arCondicionado.h"
+
+1613506448 c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\ac\arcondicionado.h
+

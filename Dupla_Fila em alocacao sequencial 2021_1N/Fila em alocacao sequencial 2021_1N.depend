@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615337698 source:f:\0_fatec\4estrut_dados_ads\0ads_ed_2021\implementacao\dupla_fila em alocacao sequencial 2021_1n\main.cpp
+	<iostream>
+	"filaalocacaosequencial.h"
+
+1615934734 f:\0_fatec\4estrut_dados_ads\0ads_ed_2021\implementacao\dupla_fila em alocacao sequencial 2021_1n\filaalocacaosequencial.h
+
+1616499489 source:c:\users\corod\downloads\dupla_fila em alocacao sequencial 2021_1n\main.cpp
+	<iostream>
+	<conio.h>
+	<locale.h>
+	"filaalocacaosequencial.h"
+
+1615934734 c:\users\corod\downloads\dupla_fila em alocacao sequencial 2021_1n\filaalocacaosequencial.h
+

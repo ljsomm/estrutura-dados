@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615410473 source:c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\projetocontainer_ljsomm\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"Pilha.h"
+	"Container.h"
+
+1615390665 c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\projetocontainer_ljsomm\pilha.h
+
+1615391117 c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\projetocontainer_ljsomm\container.h
+

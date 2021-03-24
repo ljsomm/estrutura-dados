@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1614127527 source:c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\teatro_ljsomm\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	"SalaTeatro.h"
+
+1614128407 c:\users\corod\documents\fatec\3º ciclo\estruturas de dados\teatro_ljsomm\salateatro.h
+
